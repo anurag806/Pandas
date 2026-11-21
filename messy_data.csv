@@ -1,0 +1,16 @@
+OrderID,CustomerName,Email,Product,Quantity,Price,OrderDate,City
+1001,Aarav Sharma,aarav@example.com,Laptop,1,55000,2026-10-01,Mumbai
+1002,Priya Patel,priya@example.com,Mouse,2,800,2026-10-02,Delhi
+1002,Priya Patel,priya@example.com,Mouse,2,800,2026-10-02,Delhi
+1003,Rohan Verma,,Keyboard,1,1500,2026-10-03,Bengaluru
+1004,Sneha Gupta,sneha@example.com,Monitor,,12000,2026-10-04,
+1005,Vikram Singh,vikram@example.com,Laptop,1,55000,2026-10-05,Pune
+1006,Ananya Roy,ananya@example.com,Webcam,3,NA,2026-10-06,Kolkata
+1007,Kabir Das,kabir@example.com,Headphones,1,2500,,Chennai
+1005,Vikram Singh,vikram@example.com,Laptop,1,55000,2026-10-05,Pune
+1008,,meera@example.com,Mouse,1,800,2026-10-08,Hyderabad
+1009,Arjun Nair,arjun@example.com,Monitor,2,12000,2026-10-09,n/a
+1010,Priya Patel,priya@example.com,Keyboard,1,1500,2026-10-10,Delhi
+1011,,,,,,,
+1012,Neha Joshi,neha@example.com,Webcam,2,3000,2026-10-12,Jaipur
+1003,Rohan Verma,rohan@example.com,Keyboard,1,1500,2026-10-03,Bengaluru
